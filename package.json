@@ -1,7 +1,7 @@
 {
+  "homepage": "https://karimsobhy11.github.io/my-react-app",
   "name": "quiz-reactjs",
   "private": true,
-  "homepage": "https://karimsobhy11.github.io/my-react-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
